@@ -1,0 +1,8 @@
+
+*.CHAR_RENDER
+*.DAT
+tmp/
+!system/files/tmp/
+system/files/tmp/*
+!system/files/tmp/hello
+*.json
